@@ -1,0 +1,25 @@
+FINAL REPORT ABOUT HR ANALYTICS: JOB CHANGE OF DATA SCIENTISTS 
+ 
+Predictions made with Random Forest algorithm 
+ 
+20 % of people with Graduate will look for a new job.
+
+13 % people with Master will look for a new job.
+
+6 % of people with High School will look for a new job.
+
+0 % of people with Phd or Primary School will look for a new job.
+
+15 % of people who have relevant experience will look for a new job.
+
+19 % of people who have no relevant experience will look for a new job.
+
+16 % of women will look for a new job. 
+
+19 % of men will look for a new job. 
+
+30 % people who never worked will look for a new one.
+
+19 % of people who have 1 year since the previous job will look for a new one. 
+
+People who have more than 3 year since the previous job will look for a new one
