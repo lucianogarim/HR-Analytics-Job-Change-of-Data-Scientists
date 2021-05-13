@@ -1,4 +1,4 @@
-<img src = "https://storage.googleapis.com/kaggle-datasets-images/1019790/1719283/f7505a4e4d6e9c141aa2196a7a77ddf7/data-original.png?t=2020-12-07-00-41-54" height = "350" width="800">
+<img src = "data-original.png" height = "350" width="800">
  
  # <font color='blue'> HR Analytics: Job Change of Data Scientists </font> 
  
